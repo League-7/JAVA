@@ -1,0 +1,2 @@
+# JAVA
+somethings about JAVA
